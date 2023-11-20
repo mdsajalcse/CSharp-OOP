@@ -1,0 +1,15 @@
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\obj\Debug\net7.0\ClassAndObject-02.csproj.AssemblyReference.cache
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\obj\Debug\net7.0\ClassAndObject-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\obj\Debug\net7.0\ClassAndObject-02.AssemblyInfoInputs.cache
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\obj\Debug\net7.0\ClassAndObject-02.AssemblyInfo.cs
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\obj\Debug\net7.0\ClassAndObject-02.csproj.CoreCompileInputs.cache
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\bin\Debug\net7.0\ClassAndObject-02.exe
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\bin\Debug\net7.0\ClassAndObject-02.deps.json
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\bin\Debug\net7.0\ClassAndObject-02.runtimeconfig.json
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\bin\Debug\net7.0\ClassAndObject-02.dll
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\bin\Debug\net7.0\ClassAndObject-02.pdb
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\obj\Debug\net7.0\ClassAndObject-02.dll
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\obj\Debug\net7.0\refint\ClassAndObject-02.dll
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\obj\Debug\net7.0\ClassAndObject-02.pdb
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\obj\Debug\net7.0\ClassAndObject-02.genruntimeconfig.cache
+D:\CSharp-OOP\CSharp-OOP\ClassAndObject-02\obj\Debug\net7.0\ref\ClassAndObject-02.dll
